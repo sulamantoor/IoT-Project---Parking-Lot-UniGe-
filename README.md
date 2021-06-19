@@ -12,7 +12,7 @@ To **design a parking lot system** with ability to find:
 
 - Parked cars with color reference
 
-[![Parking Lot](assets/logo.jpg) ]
+![Parking Lot](assets/logo.jpg) 
 
 ## Pre requisite requirements to run the project
 
