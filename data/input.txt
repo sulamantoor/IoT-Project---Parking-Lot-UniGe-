@@ -1,0 +1,15 @@
+create_parking_lot 6
+park AA-123-AA White
+park DG-456-PP Black
+park ER-123-AA White
+park LO-456-PP Black
+park AA-123-AA White
+park GG-456-PP Black
+leave 4
+status
+park AA-123-AA White
+park DG-456-PP Black
+registration_numbers_for_cars_with_colour White
+slot_numbers_for_cars_with_colour White
+slot_number_for_registration_number GG-456-PP
+slot_number_for_registration_number ER-123-AA

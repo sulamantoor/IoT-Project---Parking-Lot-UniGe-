@@ -1,0 +1,24 @@
+create_parking_lot 8
+AA-123-AA
+park AA-631-AA Red
+park AA-622-AA White
+park AA-852-PP Black
+park AA-991-PP Red
+park AA-931-AA Blue
+park AA-814-PP Black
+leave_car_by_registration_number AA-631-AA
+park AA-01-BB-0001 Black
+park AA-631-7777 Red
+leave 3
+park AA-631-2701 Blue
+status
+leave 2
+available_slot_numbers
+allocated_slot_numbers
+park AA-01-P-333 White
+park DL-12-AA-9999 White
+registration_numbers_for_cars_with_colour White
+slot_numbers_for_cars_with_colour White
+slot_number_for_registration_number AA-631-1234
+slot_number_for_registration_number MH-04-AY-1111
+status
