@@ -12,7 +12,7 @@ To **design a parking lot system** with ability to find:
 
 - Parked cars with color reference
 
-[![Parking Lot](./assets/logo.png)]
+[![Parking Lot](./assets/logo.png)] (https://github.com/sulamantoor/IoT-Project---Parking-Lot-UniGe-/blob/main/assets/logo.jpg?raw=true)
 
 ## Pre requisite requirements to run the project
 
